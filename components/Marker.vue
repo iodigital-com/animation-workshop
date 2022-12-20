@@ -1,0 +1,18 @@
+<template>
+  <span
+    class="
+      bg-$prism-background
+      px-2
+      py-1
+      rounded
+      font-mono
+      leading-normal
+      inline-block
+      text-0.3em
+      abs-tr
+      mr-1
+      mt-1
+    "
+    ><slot
+  /></span>
+</template>

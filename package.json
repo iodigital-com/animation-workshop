@@ -1,0 +1,20 @@
+{
+  "name": "animations-workshop",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@lottiefiles/vue-lottie-player": "^1.1.0",
+    "@slidev/cli": "^0.38.0",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "slidev-theme-zhozhoba": "^1.0.0",
+    "vue3-flip-countdown": "^0.1.6"
+  },
+  "devDependencies": {
+    "@iconify-json/uim": "^1.1.3"
+  }
+}
