@@ -8,11 +8,11 @@ Features:
 - Vectored animations ➡️ Small size
 
 <div class="mt-2">
-<iframe height="300" style="width: 100%;" scrolling="no" title="Heart animation" src="https://codepen.io/k-ivan/embed/JqXWWr?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/k-ivan/pen/JqXWWr">
-  Heart animation</a> by Ivan (<a href="https://codepen.io/k-ivan">@k-ivan</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
+  <iframe height="250" style="width: 100%;" scrolling="no" title="Heart animation" src="https://codepen.io/k-ivan/embed/JqXWWr?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+    See the Pen <a href="https://codepen.io/k-ivan/pen/JqXWWr">
+    Heart animation</a> by Ivan (<a href="https://codepen.io/k-ivan">@k-ivan</a>)
+    on <a href="https://codepen.io">CodePen</a>.
+  </iframe>
 </div>
 
 ---
