@@ -1,0 +1,28 @@
+name: Deploy presentation
+
+on:  push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2.1.5
+        with:
+          node-version: '14'
+      - uses: actions/cache@v2
+        with:
+          path: '**/node_modules'
+          key: ${{ runner.os }}-modules-${{ hashFiles('**/yarn.lock') }}
+      - name: Install dependencies
+        run: |
+          yarn install
+      - name: Build application
+        run: |
+          yarn build --base /${{ github.event.repository.name }}/
+      - name: Deploy pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          publish_dir: ./fist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
