@@ -29,6 +29,20 @@ There are four types of tweens (animations):
 
 ---
 
+## Timeline
+
+We can also apply a sequence of tweens in a timeline:
+
+<div class="mt-2">
+    <iframe height="350" style="width: 100%;" scrolling="no" title="Timeline: Basic Sequence - GSAP 3" src="https://codepen.io/GreenSock/embed/WNeOPGz?default-tab=js%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+    See the Pen <a href="https://codepen.io/GreenSock/pen/WNeOPGz">
+    Timeline: Basic Sequence - GSAP 3</a> by GreenSock (<a href="https://codepen.io/GreenSock">@GreenSock</a>)
+    on <a href="https://codepen.io">CodePen</a>.
+    </iframe>
+</div>
+
+---
+
 ## Easing
 
 Easing is one of the things that will make your animations more realistic!
