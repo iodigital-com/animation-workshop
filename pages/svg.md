@@ -165,8 +165,7 @@ Try to create some simple animations using Transitions & Animations
 
 - Beating heart
 - Fly-in elements
+- Snowflakes
+- Traffic Light
+- Christmas tree
 - ...
-
----
-
-<Countdown :minutes="30" />

@@ -16,7 +16,7 @@ src: ./pages/title.md
 
 ---
 src: ./pages/overview.md
-layout: two-cols
+layout: two-cols-header
 ---
 
 ---

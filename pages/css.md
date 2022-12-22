@@ -1,6 +1,5 @@
 # CSS <MarkerCss />
 
-ToDo: replace with decent animation?
 ![CSS](https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif)
 
 
@@ -82,3 +81,13 @@ Source: [Advice for complex CSS illustrations](https://css-tricks.com/advice-for
 <div class="ml-8">
     <Tweet id="1255207715137339396" scale="0.55" />
 </div>
+
+---
+
+# Or go crazy with `box-shadow` <MarkerCss />
+
+<iframe height="400" style="width: 100%;" scrolling="no" title="One-Dollar Bill in CSS (single-element)" src="https://codepen.io/alvaromontoro/embed/xxwqVxa?default-tab=result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/alvaromontoro/pen/xxwqVxa">
+  One-Dollar Bill in CSS (single-element)</a> by Alvaro Montoro (<a href="https://codepen.io/alvaromontoro">@alvaromontoro</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
