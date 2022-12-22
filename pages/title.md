@@ -2,7 +2,7 @@
 <div class="flex justify-center">
 <div class="w-100 mb-10">
 
-![Team Logo](colour-inverted.png)
+![Team Logo](/colour-inverted.png)
 
 </div>
 </div>

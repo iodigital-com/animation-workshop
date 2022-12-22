@@ -24,7 +24,7 @@ Grid system based on x,y coordinates and viewBox
 ```
 
 
-![SVG grid system](canvas_default_grid.png)
+![SVG grid system](/canvas_default_grid.png)
 
 ::right::
 
