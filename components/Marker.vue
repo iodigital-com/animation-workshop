@@ -8,7 +8,7 @@
       font-mono
       leading-normal
       inline-block
-      text-0.3em
+      text-sm
       abs-tr
       mr-1
       mt-1

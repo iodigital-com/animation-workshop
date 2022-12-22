@@ -59,17 +59,21 @@ div {
 
 
 ---
-layout: two-cols
+layout: two-cols-header
 ---
 
 # Creating art with CSS <MarkerCss />
 
+
 CSS became so **powerful** you can even create (realistic) images
+
+::left::
+
 - `overflow` for creating big curved shapes
 - `border-radius` for creating awkward shapes
 - `clip-path` for cutting off bits of elements
 
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 Source: [Advice for complex CSS illustrations](https://css-tricks.com/advice-for-complex-css-illustrations/)
 

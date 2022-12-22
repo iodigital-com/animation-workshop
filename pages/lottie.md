@@ -72,4 +72,43 @@ layout: two-cols-header
 
 # Animate on scroll <MarkerLottie />
 
+```jsx{all|3-5|17-22|7-15|all}
+React.useEffect(() => {
+  var animDuration = 10000;
+  const anim = lottie.loadAnimation({
+    ...
+  });
+
+  function animatebodymovin(duration: number) {
+    const scrollPosition = window.scrollY;
+    const maxFrames = anim.totalFrames;
+
+    const frame = (maxFrames / 100) * (scrollPosition / (duration / 100));
+
+    anim.goToAndStop(frame, true);
+  }
+  const onScroll = () => animatebodymovin(animDuration);
+
+  document.addEventListener("scroll", onScroll);
+
+  return () => {
+    anim.destroy();
+    document.removeEventListener("scroll", onScroll);
+  };
+
+}, []);
+```
+
+---
+
+# Animate on scroll <MarkerLottie />
+
 https://codesandbox.io/s/47xog?file=/src/App.tsx:322-417
+
+<iframe src="https://codesandbox.io/embed/lottie-scroll-animation-47xog?fontsize=14&theme=dark&view=preview"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="Lottie Scroll Animation"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
+

@@ -1,18 +1,78 @@
 # SVG <MarkerSvg />
 
-I don't know SVG, good luck Mario!
+Scalable Vector Graphics, SVG, is a W3C XML dialect to mark up graphics.
 
-
-![Mario](https://media.giphy.com/media/atQF1zaSGq8s8/giphy.gif)
+Usable as:
+- inline
+- image
+- background-image
+- favicon (not all browsers)
+- sprite
 
 ---
+layout: two-cols-header
+---
+# Positioning <MarkerSvg />
+Grid system based on x,y coordinates and viewBox
 
-# Le Structure <MarkerSvg />
+::left::
 
+```html
+<svg width="200" height="200" viewBox="0 0 100 100">
+  <rect x="10" y="10" width="80" height="80" />
+</svg>
+```
+
+
+![SVG grid system](canvas_default_grid.png)
+
+::right::
+
+<iframe height="400" style="width: 100%;" scrolling="no" title="SVG viewBox" src="https://codepen.io/sanderdejong/embed/NWBqqgV?default-tab=result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/sanderdejong/pen/NWBqqgV">
+  SVG viewBox</a> by Sander de Jong (<a href="https://codepen.io/sanderdejong">@sanderdejong</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
+---
+layout: two-cols-header
+---
+
+# Elements <MarkerSvg />
+
+
+::left::
+## Basic shapes
+
+- `<rect />`
+- `<circle />`
+- `<ellipse />`
+- `<line />`
+- `<polyline />`
+- `<polygon />`
+- `<path />`
+
+::right::
+
+## Other elements
+
+- `<linearGradient />`
+- `<radialGradient />`
+- `<pattern />`
+- `<text />`, `<tspan />`, `<textPath />`
+- `<g>`
+- `<svg />`
+- `<mask />`
+- `<filter />`
+- `<font />`
+- `<image />`
+- `<defs />`
+- `<use />`
 
 ---
 
 # Style with CSS <MarkerSvg />
+The simplest way of styling is by targeting CSS classes
 
 ```html
 <svg ...>
@@ -28,9 +88,19 @@ I don't know SVG, good luck Mario!
 }
 ```
 
+<div class="abs-bl ml-14 mb-4 text-sm text-gray-500">
+
+You can also target ID's or elements or even embedded the styling inside the SVG. But just don't... please...
+
+</div>
+
+---
+layout: two-cols-header
 ---
 
 # Transitions <MarkerSvg />
+
+::left::
 
 ```html
 <svg ...>
@@ -50,11 +120,21 @@ I don't know SVG, good luck Mario!
 }
 ```
 
+::right::
+
+<iframe height="358.5322265625" style="width: 100%;" scrolling="no" title="SVG heart" src="https://codepen.io/sanderdejong/embed/gOjppBE?default-tab=result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/sanderdejong/pen/gOjppBE">
+  SVG heart</a> by Sander de Jong (<a href="https://codepen.io/sanderdejong">@sanderdejong</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
 ---
-layout: two-cols
+layout: two-cols-header
 ---
 
 # Animations <MarkerSvg />
+
+::left::
 
 ```css
 .heart {
