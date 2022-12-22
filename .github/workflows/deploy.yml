@@ -11,7 +11,7 @@ jobs:
       - name: Install dependencies
         run: yarn install
       - name: Build
-        run: yarn build --base /${{ github.event.repository.name }}/
+        run: yarn build --base animations-workshop
       - name: Deploy pages
         uses: crazy-max/ghaction-github-pages@v2
         with:
