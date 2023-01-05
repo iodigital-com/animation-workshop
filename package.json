@@ -12,6 +12,7 @@
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
     "date-fns": "^2.29.3",
+    "slidev-theme-unicorn": "^1.1.1",
     "slidev-theme-zhozhoba": "^1.0.0",
     "vue3-flip-countdown": "^0.1.6"
   },

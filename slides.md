@@ -1,6 +1,7 @@
 ---
-theme: default
+theme: unicorn
 class: 'text-center'
+colorSchema: 'light'
 highlighter: shiki
 lineNumbers: false
 title: Animations Workshop 
@@ -16,7 +17,6 @@ src: ./pages/title.md
 
 ---
 src: ./pages/overview.md
-layout: two-cols-header
 ---
 
 ---
