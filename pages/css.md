@@ -25,7 +25,7 @@
 # Keyframe <MarkerCss />
 
 ```css
-@keyframes animation-name {
+@keyframes slide-right {
     <percentage> {
         property: value
     }
