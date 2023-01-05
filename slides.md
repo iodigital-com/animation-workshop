@@ -12,7 +12,10 @@ info: |
 drawings:
   persist: false
 css: unocss
+logoHeader: '/io-logo.png'
 src: ./pages/title.md
+layout: intro
+introImage: '/avatar.jpg'
 ---
 
 ---

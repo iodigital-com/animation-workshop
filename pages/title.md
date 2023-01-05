@@ -1,13 +1,10 @@
+# Animations Workshop
+by Mario Esteban Uclés
 
 <div class="flex justify-center">
-<div class="w-100 mb-10">
+<div class="w-40 mt-10">
 
-![Team Logo](/colour-inverted.png)
+![Team Logo](/frontx-logo.png)
 
 </div>
 </div>
-
-# GoogleDay Animations
-
-
-by Mario Esteban Ucles (en een beetje Sander)
