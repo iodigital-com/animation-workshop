@@ -1,8 +1,10 @@
-# CSS <MarkerCss />
+---
+layout: new-section
+sectionImage: '/css.png'
+---
 
-![CSS](https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif)
-
-
+# CSS
+Transitions & Animations
 ---
 
 # Transitions <MarkerCss />

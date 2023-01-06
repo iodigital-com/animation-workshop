@@ -1,3 +1,12 @@
+---
+layout: new-section
+sectionImage: '/gsap.png'
+---
+
+# GSAP
+GreenSock Animation Platform
+---
+
 # GSAP (GreenSock Animation Platform) <MarkerGsap />
 
 GSAP can animate whatever JavaScript can, in any framework and it's blazing fast!

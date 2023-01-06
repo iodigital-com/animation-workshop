@@ -1,3 +1,12 @@
+---
+layout: new-section
+sectionImage: '/lottie.gif'
+---
+
+# Lottie
+Motion out of the box
+---
+
 # Lottie <MarkerLottie />
 
 Lightweight, scalable animations for your website and apps.

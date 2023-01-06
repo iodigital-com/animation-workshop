@@ -1,3 +1,12 @@
+---
+layout: new-section
+sectionImage: '/svg.png'
+---
+
+# SVG
+Draw & Animate
+---
+
 # SVG <MarkerSvg />
 
 Scalable Vector Graphics, SVG, is a W3C XML dialect to mark up graphics.
