@@ -131,16 +131,17 @@ layout: two-cols-header
 - It's the telescope we can look through
 - Need to set viewport too, otherwise => oversized image
 
-<img class="w-100" src="/telescope.jpg"/>
+<img class="w-90" src="/telescope.jpg"/>
 
 
 ::right::
-
+<div class="mt-10">
 <iframe height="300" style="width: 100%;" scrolling="no" title="SVG viewBox - zooming and panning" src="https://codepen.io/tutsplus/embed/rdJJje?default-tab=html%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/tutsplus/pen/rdJJje">
   SVG viewBox - zooming and panning</a> by Envato Tuts+ (<a href="https://codepen.io/tutsplus">@tutsplus</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
+</div>
 ---
 
 # Style with CSS <MarkerSvg />
