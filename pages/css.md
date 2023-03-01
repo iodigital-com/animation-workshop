@@ -48,18 +48,6 @@ div {
 ```
 
 ---
-
-# Transition vs Animation <MarkerCss />
-
-| **Transition** | **Animation** |
-| --- | --- |
-| Can't loop | Loop all you want |
-| Needs trigger | Just starts |
-| Easy to control from JS | Very complex |
-| Animate from A to B | Multiple props and timeframes |
-
-
----
 layout: two-cols-header
 ---
 

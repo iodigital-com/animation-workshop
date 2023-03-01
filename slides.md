@@ -23,7 +23,7 @@ src: ./pages/overview.md
 ---
 
 ---
-src: ./pages/microinteractions.md
+src: ./pages/animations.md
 ---
 
 ---
@@ -46,6 +46,10 @@ src: ./pages/lottie.md
 
 ---
 src: ./pages/gsap.md
+---
+
+---
+src: ./pages/deconstructing.md
 ---
 
 ---

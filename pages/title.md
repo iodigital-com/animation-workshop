@@ -1,3 +1,7 @@
+---
+title: Animations Workshop
+---
+
 # Animations Workshop
 Mario Esteban 
 <span class="text-xl">&</span>

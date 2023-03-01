@@ -141,16 +141,3 @@ GSAP supports a lot of plugins that can help you make amazing effects out of the
 - [https://bashooka.com/coding/30-css-animated-gradient-examples/](https://bashooka.com/coding/30-css-animated-gradient-examples/)
 - [https://yourplanyourplanet.sustainability.google/](https://yourplanyourplanet.sustainability.google/)
 
----
-
-# Let's practice <MarkerSvg />
-
-Try to create animations combining Lottie + GSAP
-
-- Fade-in elements when scrolling down and play Lottie animations once in the viewport
-- You can also make the content remain sticky on scroll
-- ... (Trash bin opening on hover? 😜)
-
-Or check:
-- [dribbble.com](https://dribbble.com) for design inspiration
-- [lottiefiles.com](https://lottiefiles.com) for free, animated svg's

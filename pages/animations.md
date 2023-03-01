@@ -3,15 +3,16 @@ layout: new-section
 sectionImage: '/switch.gif'
 ---
 
-# Micro-interactions
+# Animations
 The forgotten vegetables 🥦
-
 ---
-layout: center
 ---
-
-# Micro-what?
-
+# Types of Animations
+- Component behavior
+- Micro-interactions 
+<!--
+Component animation/behaviors are how specific components or component sets are animated and adjusted, either individually or in relation to one another, within specific usage contexts (this can vary depending upon the framework your team may be working with).
+-->
 ---
 layout: two-cols-header
 ---
@@ -26,6 +27,18 @@ layout: two-cols-header
 
 ::right::
 <img class="ml-15 w-80" src="/microinteraction-flow.png" />
+
+---
+---
+
+# Transition vs Animation <MarkerCss />
+
+| **Transition** | **Animation** |
+| --- | --- |
+| Can't loop | Loop all you want |
+| Needs trigger | Just starts |
+| Easy to control from JS | Very complex |
+| Animate from A to B | Multiple props and timeframes |
 
 ---
 ---
