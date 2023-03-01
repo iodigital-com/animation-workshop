@@ -1,5 +1,7 @@
 # Animations Workshop
-by Mario Esteban Uclés
+Mario Esteban 
+<span class="text-xl">&</span>
+Sander de Jong
 
 <div class="flex justify-center">
 <div class="w-40 mt-10">
