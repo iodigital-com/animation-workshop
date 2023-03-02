@@ -89,16 +89,6 @@ layout: two-cols-header
 - `<use />`
 
 ---
----
-# viewport & viewBox difference
-
-## viewport
-- Window
-
-## viewBox
-- Like viewport but enables us to pan
-
----
 layout: two-cols-header
 ---
 

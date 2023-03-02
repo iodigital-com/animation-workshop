@@ -1,5 +1,11 @@
 ---
-title: The iPhone website
+layout: new-section
+sectionImage: '/homer-magnifier.gif'
+---
+
+# Deconstructing webs
+How they work under the hood
+---
 ---
 
 # The iPhone website
