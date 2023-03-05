@@ -52,7 +52,7 @@ div {
 
 
 - `transform`: scale / perspective / translate / skew / rotate / rotate3d
-- `clip-path`: clip part of a region to subtract the rest based on paths
+- `clip-path`: clip part of a region to subtract the rest based on paths. inset / ellipse / circle / path
 - `mask`: same as clip-path but using images for clipping
 - `filter`: Graphical effects. blur / grayscale / hue-rotate
 
