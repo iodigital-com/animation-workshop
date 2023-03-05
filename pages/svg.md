@@ -238,3 +238,7 @@ Try to create some simple animations using Transitions & Animations
 Useful links:
 - Online SVG Resources: https://freesvg.org/ -  https://seeklogo.com/ (filter by .svg)
 - SVG Optimizer: https://jakearchibald.github.io/svgomg/
+
+<br/><br/>
+Tips:
+- Use Codepen so that you can easily share your work!

@@ -50,7 +50,10 @@ Try to create animations combining Lottie + GSAP
 - Fade-in elements when scrolling down and play Lottie animations once in the viewport
 - You can also make the content remain sticky on scroll
 - ... (Trash bin opening on hover? 😜)
-
+<br/><br/>
 Or check:
 - [dribbble.com](https://dribbble.com) for design inspiration
 - [lottiefiles.com](https://lottiefiles.com) for free, animated svg's
+<br/><br/>
+Tips:
+- Use the GSAP Codepen Starter Tempalte: https://codepen.io/GreenSock/pen/aYYOdN
