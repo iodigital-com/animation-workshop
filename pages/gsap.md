@@ -65,8 +65,6 @@ Difference between no-easing/easing:
 
 ---
 
-<MarkerGsap />
-
 <iframe height="450" style="width: 100%;" scrolling="no" title="Preview: GreenSock Ease Visualizer" src="https://codepen.io/Wpitallo/embed/KKwLqLd?default-tab=result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/Wpitallo/pen/KKwLqLd">
   Preview: GreenSock Ease Visualizer</a> by Wpitallo (<a href="https://codepen.io/Wpitallo">@Wpitallo</a>)
@@ -127,7 +125,28 @@ GSAP supports a lot of plugins that can help you make amazing effects out of the
 </iframe>
 
 ---
+---
 
+# iO Example
+
+<iframe height="400" style="width: 100%;" scrolling="no" title="Discover iO" src="https://codepen.io/marioesuc/embed/wvEdrWK?default-tab=result&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/marioesuc/pen/wvEdrWK">
+  Discover iO</a> by Mario (<a href="https://codepen.io/marioesuc">@marioesuc</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+---
+
+# New York's Boroughs Example
+by @dave_bitter
+
+<iframe height="400" style="width: 100%;" scrolling="no" title="GSAP storytelling" src="https://codepen.io/davebitter/embed/jOpPzrr?default-tab=result&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/davebitter/pen/jOpPzrr">
+  GSAP storytelling</a> by Dave Bitter (<a href="https://codepen.io/davebitter">@davebitter</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
+<!-- --- -->
+<!-- 
 # Some examples
 
 - [https://github.com/](https://github.com/)
@@ -140,4 +159,4 @@ GSAP supports a lot of plugins that can help you make amazing effects out of the
 - [https://hoang.moe/](https://hoang.moe/)
 - [https://bashooka.com/coding/30-css-animated-gradient-examples/](https://bashooka.com/coding/30-css-animated-gradient-examples/)
 - [https://yourplanyourplanet.sustainability.google/](https://yourplanyourplanet.sustainability.google/)
-
+ -->

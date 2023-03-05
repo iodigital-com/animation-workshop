@@ -24,25 +24,21 @@ https://www.apple.com/nl/iphone-14-pro/
 # The iPhone website
 Font gradient on Scroll
 
-<div class="mt-2">
-      <iframe height="370" style="width: 100%;" scrolling="no" title="Font gradient scroll" src="https://codepen.io/marioesuc/embed/abaBxVj?default-tab=html%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-    See the Pen <a href="https://codepen.io/marioesuc/pen/abaBxVj">
-    Font gradient scroll</a> by Mario (<a href="https://codepen.io/marioesuc">@marioesuc</a>)
-    on <a href="https://codepen.io">CodePen</a>.
-  </iframe>
-</div>
+<iframe height="400" style="width: 100%;" scrolling="no" title="Font gradient scroll" src="https://codepen.io/marioesuc/embed/abaBxVj?default-tab=result&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/marioesuc/pen/abaBxVj">
+  Font gradient scroll</a> by Mario (<a href="https://codepen.io/marioesuc">@marioesuc</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 ---
 ---
 # The iPhone website
 Magnifier hovers on scroll
 
-<div class="mt-2">
-      <iframe height="400" style="width: 100%;" scrolling="no" title="Magnify image on scroll" src="https://codepen.io/marioesuc/embed/dyqNmVz?default-tab=html%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+<iframe height="400" style="width: 100%;" scrolling="no" title="Magnify image on scroll" src="https://codepen.io/marioesuc/embed/dyqNmVz?default-tab=result&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/marioesuc/pen/dyqNmVz">
   Magnify image on scroll</a> by Mario (<a href="https://codepen.io/marioesuc">@marioesuc</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
-</div>
 
 ---
 ---

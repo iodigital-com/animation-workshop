@@ -30,30 +30,6 @@ Usable as:
 | Possible to modify through JS and CSS | Only possible to modify through JS |
 
 ---
----
-# Positioning <MarkerSvg />
-Grid system based on x,y coordinates and viewBox
-
-::left::
-
-```html
-<svg width="200" height="200" viewBox="0 0 100 100">
-  <rect x="10" y="10" width="80" height="80" />
-</svg>
-```
-
-
-![SVG grid system](/canvas_default_grid.png)
-
-::right::
-
-<iframe height="400" style="width: 100%;" scrolling="no" title="SVG viewBox" src="https://codepen.io/sanderdejong/embed/NWBqqgV?default-tab=result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/sanderdejong/pen/NWBqqgV">
-  SVG viewBox</a> by Sander de Jong (<a href="https://codepen.io/sanderdejong">@sanderdejong</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
-
----
 layout: two-cols-header
 ---
 
@@ -87,6 +63,31 @@ layout: two-cols-header
 - `<image />`
 - `<defs />`
 - `<use />`
+
+---
+layout: two-cols-header
+---
+# Positioning <MarkerSvg />
+Grid system based on x,y coordinates and viewBox
+
+::left::
+
+```html
+<svg width="200" height="200" viewBox="0 0 100 100">
+  <rect x="10" y="10" width="80" height="80" />
+</svg>
+```
+
+
+![SVG grid system](/canvas_default_grid.png)
+
+::right::
+
+<iframe height="400" style="width: 100%;" scrolling="no" title="SVG viewBox" src="https://codepen.io/sanderdejong/embed/NWBqqgV?default-tab=result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/sanderdejong/pen/NWBqqgV">
+  SVG viewBox</a> by Sander de Jong (<a href="https://codepen.io/sanderdejong">@sanderdejong</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 ---
 layout: two-cols-header
@@ -228,7 +229,12 @@ Try to create some simple animations using Transitions & Animations
 
 - Beating heart
 - Fly-in elements
-- Snowflakes
+- Rain / Falling leaves / Snowflakes
 - Traffic Light
-- Christmas tree
+- Emoji's in movement
 - ...
+
+
+Useful links:
+- Online SVG Resources: https://freesvg.org/ -  https://seeklogo.com/ (filter by .svg)
+- SVG Optimizer: https://jakearchibald.github.io/svgomg/
