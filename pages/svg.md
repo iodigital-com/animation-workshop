@@ -222,11 +222,14 @@ layout: two-cols-header
 </div>
 
 ---
+layout: two-cols-header
+---
 
 # Let's practice <MarkerSvg />
 
 Try to create some simple animations using Transitions & Animations
 
+::left::
 - Beating heart
 - Fly-in elements
 - Rain / Falling leaves / Snowflakes
@@ -239,6 +242,10 @@ Useful links:
 - Online SVG Resources: https://freesvg.org/ -  https://seeklogo.com/ (filter by .svg)
 - SVG Optimizer: https://jakearchibald.github.io/svgomg/
 
-<br/><br/>
-Tips:
+<br/>
+<b>Tips:</b>
 - Use Codepen so that you can easily share your work!
+
+::right::
+
+<Countdown class="mt-10"/>

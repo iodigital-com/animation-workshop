@@ -41,9 +41,12 @@ Magnifier hovers on scroll
 </iframe>
 
 ---
+layout: two-cols-header
 ---
 
 # Let's practice <MarkerSvg />
+
+::left::
 
 Try to create animations combining Lottie + GSAP
 
@@ -55,5 +58,10 @@ Or check:
 - [dribbble.com](https://dribbble.com) for design inspiration
 - [lottiefiles.com](https://lottiefiles.com) for free, animated svg's
 <br/><br/>
-Tips:
-- Use the GSAP Codepen Starter Tempalte: https://codepen.io/GreenSock/pen/aYYOdN
+<b>Tips:</b>
+- Use the GSAP Codepen Starter Template: https://codepen.io/GreenSock/pen/aYYOdN
+
+::right::
+
+<Countdown class="mt-10"/>
+---

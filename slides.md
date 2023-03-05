@@ -35,12 +35,6 @@ src: ./pages/svg.md
 ---
 
 ---
-src: ./pages/timer.md
-layout: center
-class: text-center
----
-
----
 src: ./pages/lottie.md
 ---
 
@@ -50,10 +44,4 @@ src: ./pages/gsap.md
 
 ---
 src: ./pages/deconstructing.md
----
-
----
-src: ./pages/end.md
-layout: center
-class: text-center
 ---
