@@ -59,6 +59,12 @@ div {
 - `filter`: Graphical effects. blur / grayscale / hue-rotate
 
 ---
+---
+<MarkerCss />
+# Question
+## How do you make a triangle in CSS?
+
+---
 layout: two-cols-header
 ---
 
