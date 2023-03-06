@@ -2,12 +2,12 @@
 layout: new-section
 sectionImage: '/svg.png'
 ---
-
 # SVG
 Draw & Animate
 ---
-
-# SVG <MarkerSvg />
+---
+<MarkerSvg />
+# SVG
 
 Scalable Vector Graphics, SVG, is a W3C XML dialect to mark up graphics.
 
@@ -20,6 +20,7 @@ Usable as:
 
 ---
 ---
+<MarkerSvg />
 # SVG vs Canvas
 
 | **SVG** | **Canvas** |
@@ -32,8 +33,8 @@ Usable as:
 ---
 layout: two-cols-header
 ---
-
-# Elements <MarkerSvg />
+<MarkerSvg />
+# Elements
 
 
 ::left::
@@ -67,7 +68,8 @@ layout: two-cols-header
 ---
 layout: two-cols-header
 ---
-# Positioning <MarkerSvg />
+<MarkerSvg />
+# Positioning
 Grid system based on x,y coordinates and viewBox
 
 ::left::
@@ -90,9 +92,14 @@ Grid system based on x,y coordinates and viewBox
 </iframe>
 
 ---
+---
+<MarkerSvg />
+# viewport & viewBox difference?
+---
 layout: two-cols-header
 ---
 
+<MarkerSvg />
 # viewport & viewBox difference
 ## viewport
 
@@ -112,7 +119,7 @@ It's the window we can look through
 ---
 layout: two-cols-header
 ---
-
+<MarkerSvg />
 # viewport & viewBox difference
 ## viewBox
 
@@ -134,8 +141,9 @@ layout: two-cols-header
 </iframe>
 </div>
 ---
-
-# Style with CSS <MarkerSvg />
+---
+<MarkerSvg />
+# Style with CSS
 The simplest way of styling is by targeting CSS classes
 
 ```html
@@ -161,8 +169,9 @@ You can also target ID's or elements or even embedded the styling inside the SVG
 ---
 layout: two-cols-header
 ---
+<MarkerSvg />
 
-# Transitions <MarkerSvg />
+# Transitions
 
 ::left::
 
@@ -196,7 +205,8 @@ layout: two-cols-header
 layout: two-cols-header
 ---
 
-# Animations <MarkerSvg />
+<MarkerSvg />
+# Animations
 
 ::left::
 
@@ -222,14 +232,12 @@ layout: two-cols-header
 </div>
 
 ---
-layout: two-cols-header
 ---
 
-# Let's practice <MarkerSvg />
+# Let's practice
 
 Try to create some simple animations using Transitions & Animations
 
-::left::
 - Beating heart
 - Fly-in elements
 - Rain / Falling leaves / Snowflakes
@@ -245,7 +253,3 @@ Useful links:
 <br/>
 <b>Tips:</b>
 - Use Codepen so that you can easily share your work!
-
-::right::
-
-<Countdown class="mt-10"/>

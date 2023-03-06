@@ -7,6 +7,7 @@ sectionImage: '/switch.gif'
 The forgotten vegetables 🥦
 ---
 ---
+<MarkerAnimations />
 # Types of Animations
 - Component behavior
 - Micro-interactions 
@@ -17,6 +18,7 @@ Component animation/behaviors are how specific components or component sets are 
 layout: two-cols-header
 ---
 
+<MarkerAnimations />
 # Micro-interactions
 
 ::left::
@@ -31,7 +33,8 @@ layout: two-cols-header
 ---
 ---
 
-# Transition vs Animation <MarkerCss />
+<MarkerAnimations />
+# Transition vs Animation
 
 | **Transition** | **Animation** |
 | --- | --- |
@@ -42,6 +45,7 @@ layout: two-cols-header
 
 ---
 ---
+<MarkerAnimations />
 # Is this familiar?
 
 <img class="mt-20 mx-auto w-50" src="/spotify-heart.gif" />
@@ -53,11 +57,13 @@ image: '/spotify.gif'
 imageWidth: '700'
 
 ---
+<MarkerAnimations />
 # Spotify's hackathon result
 
 ---
 layout: two-cols-header
 ---
+<MarkerAnimations />
 # Business value
 ::left::
 - Usually underprioritized due to lack of "business value"
@@ -73,12 +79,23 @@ layout: two-cols-header
 </div>
 ---
 ---
+<MarkerAnimations />
+
+# Engagement 
+## Hackathon at ViriCiti
+
+<img class="w-180 mx-auto mt-10" src="/viriciti-trash-can-static.png"/>
+---
+---
+<MarkerAnimations />
+
 # Engagement 
 ## Hackathon at ViriCiti
 
 <img class="w-180 mx-auto mt-10" src="/viriciti-trash-can.gif"/>
 ---
 ---
+<MarkerAnimations />
 # Engagement 
 ## Telegram - Infinite Reactions
 
@@ -87,21 +104,25 @@ layout: two-cols-header
 </video>
 ---
 ---
+<MarkerAnimations />
 # Branding/Engagement
 
 <img class="w-170 mx-auto mt-10" src="/asana-unicorn.gif"/>
 ---
 ---
+<MarkerAnimations />
 # System status 
 
 <img class="w-100 mx-auto mt-10" src="/submit-button.gif"/>
 ---
 ---
+<MarkerAnimations />
 # Spatial orientation
 
 <img class="w-140 mx-auto mt-10" src="/spatial-orientation.gif"/>
 ---
 ---
+<MarkerAnimations />
 # The power of visuals
 - 80% of information perceived trough eyes
 - Big psychological factor
@@ -111,6 +132,7 @@ layout: two-cols-header
 ---
 layout: two-cols-header
 ---
+<MarkerAnimations />
 # Too powerful...
 ::left::
 <img class="mt-10 w-80" src="/tinder-swipe.gif"/>
@@ -126,6 +148,7 @@ imageWidth: '700'
 ---
 layout: two-cols-header
 ---
+<MarkerAnimations />
 # Dont't abuse
 ::left::
 - Take care of your users

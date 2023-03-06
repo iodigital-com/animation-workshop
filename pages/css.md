@@ -7,7 +7,8 @@ sectionImage: '/css.png'
 Transitions & Animations
 ---
 
-# Transitions <MarkerCss />
+<MarkerCss />
+# Transitions
 
 ```css
 #delay {
@@ -23,16 +24,17 @@ Transitions & Animations
 ```
 
 ---
-
-# Keyframe <MarkerCss />
+---
+<MarkerCss />
+# Keyframe
 
 ```css
 @keyframes slide-right {
-    <percentage> {
+    0% {
         property: value
     }
 
-    <percentage> {
+    100% {
         property: value
     }
 }
@@ -48,8 +50,8 @@ div {
 ```
 ---
 ---
-# Useful CSS properties <MarkerSvg />
-
+<MarkerCss />
+# Useful CSS properties
 
 - `transform`: scale / perspective / translate / skew / rotate / rotate3d
 - `clip-path`: clip part of a region to subtract the rest based on paths. inset / ellipse / circle / path
@@ -60,7 +62,8 @@ div {
 layout: two-cols-header
 ---
 
-# Creating art with CSS <MarkerCss />
+<MarkerCss />
+# Creating art with CSS
 
 
 CSS became so **powerful** you can even create (realistic) images
@@ -83,7 +86,8 @@ Source: [Advice for complex CSS illustrations](https://css-tricks.com/advice-for
 
 ---
 
-# Or go crazy with `box-shadow` <MarkerCss />
+# Or go crazy with box-shadow
+<MarkerCss />
 
 <iframe height="400" style="width: 100%;" scrolling="no" title="One-Dollar Bill in CSS (single-element)" src="https://codepen.io/alvaromontoro/embed/xxwqVxa?default-tab=result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/alvaromontoro/pen/xxwqVxa">

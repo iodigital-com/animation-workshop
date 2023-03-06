@@ -7,7 +7,8 @@ sectionImage: '/lottie.gif'
 Motion out of the box
 ---
 
-# Lottie <MarkerLottie />
+<MarkerLottie />
+# Lottie
 
 Lightweight, scalable animations for your website and apps.
 
@@ -26,7 +27,8 @@ Features:
 
 ---
 
-# Plugins <MarkerLottie />
+<MarkerLottie />
+# Plugins
 
 - After Effects - Bodymovin
 - Adobe XD
@@ -38,7 +40,8 @@ Features:
 layout: two-cols-header
 ---
 
-# How to use <MarkerLottie />
+<MarkerLottie />
+# How to use
 
 ::left::
 
@@ -79,7 +82,8 @@ layout: two-cols-header
 
 ---
 
-# Animate on scroll <MarkerLottie />
+<MarkerLottie />
+# Animate on scroll
 
 ```jsx{all|3-5|17-22|7-15|all}
 React.useEffect(() => {
@@ -110,7 +114,8 @@ React.useEffect(() => {
 
 ---
 
-# Animate on scroll <MarkerLottie />
+<MarkerLottie />
+# Animate on scroll
 
 <iframe src="https://codesandbox.io/embed/lottie-scroll-animation-47xog?fontsize=14&theme=dark&view=preview"
      style="width:100%; height:400px; border:0; border-radius: 4px; overflow:hidden;"

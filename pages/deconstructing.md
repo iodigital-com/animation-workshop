@@ -4,10 +4,11 @@ sectionImage: '/homer-magnifier.gif'
 ---
 
 # Deconstructing webs
-How they work under the hood
+How it works under the hood
 ---
 ---
 
+<MarkerDeconstructing />
 # The iPhone website
 https://www.apple.com/nl/iphone-14-pro/
 
@@ -21,6 +22,7 @@ https://www.apple.com/nl/iphone-14-pro/
 -->
 ---
 ---
+<MarkerDeconstructing />
 # The iPhone website
 Font gradient on Scroll
 
@@ -31,6 +33,7 @@ Font gradient on Scroll
 </iframe>
 ---
 ---
+<MarkerDeconstructing />
 # The iPhone website
 Magnifier hovers on scroll
 
@@ -41,12 +44,9 @@ Magnifier hovers on scroll
 </iframe>
 
 ---
-layout: two-cols-header
 ---
 
-# Let's practice <MarkerSvg />
-
-::left::
+# Let's practice
 
 Try to create animations combining Lottie + GSAP
 
@@ -60,8 +60,3 @@ Or check:
 <br/><br/>
 <b>Tips:</b>
 - Use the GSAP Codepen Starter Template: https://codepen.io/GreenSock/pen/aYYOdN
-
-::right::
-
-<Countdown class="mt-10"/>
----

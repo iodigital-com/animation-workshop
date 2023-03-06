@@ -7,7 +7,8 @@ sectionImage: '/gsap.png'
 GreenSock Animation Platform
 ---
 
-# GSAP (GreenSock Animation Platform) <MarkerGsap />
+<MarkerGsap />
+# GSAP (GreenSock Animation Platform)
 
 GSAP can animate whatever JavaScript can, in any framework and it's blazing fast!
 
@@ -22,8 +23,10 @@ GSAP can animate whatever JavaScript can, in any framework and it's blazing fast
 </div>
 
 ---
+---
 
-# Methods <MarkerGsap />
+<MarkerGsap />
+# Methods
 
 There are four types of tweens (animations): 
 
@@ -36,8 +39,10 @@ There are four types of tweens (animations):
 - `gsap.set()` - Immediately sets properties (no animation)
 
 ---
+---
 
-# Timeline <MarkerGsap />
+<MarkerGsap />
+# Timeline
 
 We can also apply a sequence of tweens in a timeline:
 
@@ -48,8 +53,10 @@ We can also apply a sequence of tweens in a timeline:
 </iframe>
 
 ---
+---
 
-# Easing <MarkerGsap />
+<MarkerGsap />
+# Easing
 
 Easing is one of the things that will make your animations more realistic!
 
@@ -64,6 +71,8 @@ Difference between no-easing/easing:
 </div>
 
 ---
+---
+<MarkerGsap />
 
 <iframe height="450" style="width: 100%;" scrolling="no" title="Preview: GreenSock Ease Visualizer" src="https://codepen.io/Wpitallo/embed/KKwLqLd?default-tab=result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/Wpitallo/pen/KKwLqLd">
@@ -72,8 +81,9 @@ Difference between no-easing/easing:
 </iframe>
 
 ---
-
-# Plugins <MarkerGsap />
+---
+<MarkerGsap />
+# Plugins
 
 GSAP supports a lot of plugins that can help you make amazing effects out of the box. Some of them are:
 
@@ -85,8 +95,9 @@ GSAP supports a lot of plugins that can help you make amazing effects out of the
 - ...
 
 ---
-
-### Flip Plugin <MarkerGsap />
+---
+<MarkerGsap />
+### Flip Plugin
 
 <iframe height="500" style="width: 100%;" scrolling="no" title="Grid items view with Flip Plugin" src="https://codepen.io/GreenSock/embed/JjXqMZK?default-tab=js%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/GreenSock/pen/JjXqMZK">
@@ -95,8 +106,9 @@ GSAP supports a lot of plugins that can help you make amazing effects out of the
 </iframe>
 
 ---
-
-### ScrollTriger Plugin <MarkerGsap />
+---
+<MarkerGsap />
+### ScrollTriger Plugin
 
 <iframe height="500" style="width: 100%;" scrolling="no" title="Skew on scroll using scroll velocity - ScrollTrigger" src="https://codepen.io/GreenSock/embed/eYpGLYL?default-tab=js%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/GreenSock/pen/eYpGLYL">
@@ -105,8 +117,9 @@ GSAP supports a lot of plugins that can help you make amazing effects out of the
 </iframe>
 
 ---
-
-### DrawSVG Plugin <MarkerGsap />
+---
+<MarkerGsap />
+### DrawSVG Plugin
 
 <iframe height="500" style="width: 100%;" scrolling="no" title="DrawSVGPlugin (All SVG Shape Types)" src="https://codepen.io/GreenSock/embed/qEdoRE?default-tab=js%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/GreenSock/pen/qEdoRE">
@@ -115,8 +128,9 @@ GSAP supports a lot of plugins that can help you make amazing effects out of the
 </iframe>
 
 ---
-
-### You can even combine them! ScrollTrigger + DrawSVG <MarkerGsap />
+---
+<MarkerGsap />
+### You can even combine them! ScrollTrigger + DrawSVG
 
 <iframe height="500" style="width: 100%;" scrolling="no" title="Animate path on scroll - ScrollTrigger" src="https://codepen.io/GreenSock/embed/rNOBLBV?default-tab=js%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/GreenSock/pen/rNOBLBV">
@@ -126,6 +140,7 @@ GSAP supports a lot of plugins that can help you make amazing effects out of the
 
 ---
 ---
+<MarkerGsap />
 
 # iO Example
 
@@ -135,7 +150,8 @@ GSAP supports a lot of plugins that can help you make amazing effects out of the
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
 ---
-
+---
+<MarkerGsap />
 # New York's Boroughs Example
 by @dave_bitter
 
