@@ -45,3 +45,6 @@ src: ./pages/gsap.md
 ---
 src: ./pages/deconstructing.md
 ---
+---
+src: ./pages/thank-you.md
+---
