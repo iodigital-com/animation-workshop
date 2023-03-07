@@ -13,6 +13,7 @@ Motion out of the box
 Lightweight, scalable animations for your website and apps.
 
 Features:
+- JSON File
 - After Effects videos & plugins
 - Manipulate your animationsPlay (for-back)wards, starting/end frame, speed...
 - Vectored animations ➡️ Small size

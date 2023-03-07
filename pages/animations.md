@@ -164,7 +164,7 @@ layout: two-cols-header
 <!-- 
 - Helps users build better mental models of spatial information
 - Animations helpful on guiding users
-- Especially important for mobile users
+- Especially important for mobile users doe to screen size limitations
 -->
 ---
 ---
@@ -192,13 +192,15 @@ imageWidth: '700'
 ---
 # Too powerful...
 ---
-layout: two-cols-header
+layout: image-center
+image: '/epileptic-simpsons.gif'
+imageWidth: '400'
 ---
 <MarkerAnimations />
 # Dont't abuse
-::left::
+
+<!--
 - Take care of your users
 - Overwhelming animations can bring stress and achieve the opposite effect
 - Your app is not the only one claiming for engagement
-::right::
-<img class="mt-10 ml-10 w-90" src="/epileptic-simpsons.gif"/>
+-->

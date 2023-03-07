@@ -6,48 +6,78 @@ sectionImage: '/css.png'
 # CSS
 Transitions & Animations
 ---
+layout: two-cols-header
+---
 
 <MarkerCss />
 # Transitions
 
+::left::
 ```css
 #delay {
-  font-size: 14px;
+  font-size: 24px;
   transition-property: font-size;
-  transition-duration: 4s;
+  transition-duration: 1s;
   transition-delay: 2s;
 }
 
 #delay:hover {
-  font-size: 36px;
+  font-size: 48px;
 }
 ```
 
+::right::
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="CSS Transition" src="https://codepen.io/marioesuc/embed/OJoxRpO?default-tab=result&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/marioesuc/pen/OJoxRpO">
+  CSS Transition</a> by Mario (<a href="https://codepen.io/marioesuc">@marioesuc</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
 ---
+layout: two-cols-header
 ---
 <MarkerCss />
-# Keyframe
+# Animations
+Keyframes
+
+::left::
 
 ```css
-@keyframes slide-right {
+#changing-bg {
+  animation-name: change-color;
+  animation-duration: 2s;
+  animation-iteration-count: 3;
+  animation-direction: alternate;
+}
+```
+
+```css
+@keyframes change-color {
     0% {
-        property: value
+        background-color: blue;
+    }
+  
+    20% {
+        background-color: green;
     }
 
     100% {
-        property: value
+        background-color: orange;
     }
 }
 ```
 
+::right::
+<iframe height="300" style="width: 100%;" scrolling="no" title="CSS Transition" src="https://codepen.io/marioesuc/embed/VwGMKxp?default-tab=result&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/marioesuc/pen/VwGMKxp">
+  CSS Transition</a> by Mario (<a href="https://codepen.io/marioesuc">@marioesuc</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
 <br />
 
-```css
-div {
-    animation-name: slide-right;
-    animation-duration: 4s;
-}
-```
+
 ---
 ---
 <MarkerCss />
@@ -57,6 +87,18 @@ div {
 - `clip-path`: clip part of a region to subtract the rest based on paths. inset / ellipse / circle / path
 - `mask`: same as clip-path but using images for clipping
 - `filter`: Graphical effects. blur / grayscale / hue-rotate
+
+---
+---
+<MarkerCss />
+# 3D Moving grid changing perspective
+by Jurgen Beliën
+
+<iframe height="400" style="width: 100%;" scrolling="no" title="Night Ride" src="https://codepen.io/JurgenBelien/embed/QYbzaK?default-tab=result&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/JurgenBelien/pen/QYbzaK">
+  Night Ride</a> by Jurgen Beliën (<a href="https://codepen.io/JurgenBelien">@JurgenBelien</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 ---
 ---

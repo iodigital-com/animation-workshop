@@ -176,8 +176,8 @@ layout: two-cols-header
 ::left::
 
 ```html
-<svg ...>
-  <path class="heart" .../>
+<svg class="heart" ...>
+  <path  .../>
 </svg>
 ```
 
@@ -250,6 +250,6 @@ Useful links:
 - Online SVG Resources: https://freesvg.org/ -  https://seeklogo.com/ (filter by .svg)
 - SVG Optimizer: https://jakearchibald.github.io/svgomg/
 
-<br/>
+<br/><br/>
 <b>Tips:</b>
 - Use Codepen so that you can easily share your work!
