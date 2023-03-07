@@ -8,10 +8,16 @@ The forgotten vegetables 🥦
 ---
 ---
 <MarkerAnimations />
+# Animations features
+- Provide visual feedback to user
+- Possible to explain a lot without using a word
+
+---
+---
+<MarkerAnimations />
 # Types of Animations
 - Component behavior
 - Micro-interactions 
-
 ---
 layout: two-cols-header
 ---
@@ -35,8 +41,8 @@ layout: two-cols-header
 # Micro-interactions
 
 ::left::
-- Provide visual feedback to user
-- Possible to explain a lot without using a word
+- Small animations for certain contexts
+- Subtle. Not overwhelming
 
 <img class="mt-15 mr-10 w-100" src="/snoozing-alarm.gif" />
 
@@ -105,6 +111,15 @@ layout: two-cols-header
 # Engagement 
 ## Hackathon at ViriCiti
 
+<img class="w-40 absolute right-27 top-62 mx-auto mt-10" src="/kirby-inhaling.gif"/>
+<img class="w-180 mx-auto mt-10" src="/viriciti-trash-can-static.png"/>
+---
+---
+<MarkerAnimations />
+
+# Engagement 
+## Hackathon at ViriCiti
+
 <img class="w-180 mx-auto mt-10" src="/viriciti-trash-can.gif"/>
 ---
 ---
@@ -130,9 +145,27 @@ layout: two-cols-header
 ---
 ---
 <MarkerAnimations />
+# Introducing new elements
+
+<img class="w-110 mx-auto mt-10" src="/new-elements-animations.gif"/>
+
+<!-- 
+- Helps getting user’s focus
+- Helps answering question: Why do I see a new element?
+- Animations help you define object relationships & hierarchies
+-->
+---
+---
+<MarkerAnimations />
 # Spatial orientation
 
 <img class="w-140 mx-auto mt-10" src="/spatial-orientation.gif"/>
+
+<!-- 
+- Helps users build better mental models of spatial information
+- Animations helpful on guiding users
+- Especially important for mobile users
+-->
 ---
 ---
 <MarkerAnimations />
