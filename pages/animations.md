@@ -11,6 +11,19 @@ The forgotten vegetables 🥦
 # Types of Animations
 - Component behavior
 - Micro-interactions 
+
+---
+layout: two-cols-header
+---
+<MarkerAnimations />
+# Component behavior
+
+::left::
+- Broad target
+- Can tackle either individual components or interactions between them
+
+::right::
+<img class="mt-15 mr-10 w-100" src="/opening-banking-app.gif" />
 <!--
 Component animation/behaviors are how specific components or component sets are animated and adjusted, either individually or in relation to one another, within specific usage contexts (this can vary depending upon the framework your team may be working with).
 -->
