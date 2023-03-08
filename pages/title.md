@@ -14,4 +14,5 @@ Sander de Jong
 
 </div>
 </div>
+<div class="mt-30  ">Join #animation-workshop-utrecht on Slack</div>
 

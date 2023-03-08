@@ -13,6 +13,9 @@ How it works under the hood
 https://www.apple.com/nl/iphone-14-pro/
 
 <!--
+Web Archive Link: http://web.archive.org/web/20230301023126/https://www.apple.com/nl/iphone-14-pro/
+
+
 - iPhone with O becoming notch
 - Chipset:
 
